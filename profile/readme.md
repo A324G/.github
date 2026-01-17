@@ -1,5 +1,3 @@
-![meh](https://github.com/A324G/.github/blob/main/banner/banner.png)
-
 > [!IMPORTANT]
 > This project is still working in progress.
 
