@@ -8,8 +8,8 @@ The minimalist, cleanest ROM for Samsung Galaxy A32 4G.
 ### ***features:***
 
 - high debloated
-- deKnoxed
-- deGoogled
+- deKnoxed (on the X version)
+- deGoogled (on the X version)
 - added universalUI toolbox (universalX)
 - included kernel stablity & performance
 
