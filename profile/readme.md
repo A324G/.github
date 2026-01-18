@@ -1,3 +1,6 @@
+> [!NOTE]
+> After 18/1/2026, account commit will be changed to [[universalUI | Team]](https://github.com/universalUITeam), not [[nc4tt]](https://github.com/nc4tt) anymore.
+
 > [!IMPORTANT]
 > This project is still working in progress.
 
