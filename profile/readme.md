@@ -2,7 +2,7 @@
 > This project is still working in progress.
 
 > [!NOTE]
-> This is **One UI 8 based**, **ported from A34 5G**, if you want to **try universalUI in One UI 8.5 or One UI 7**, **please check the [@uniUIcanaryOrg](https://github.com/uniUIcanaryOrg)**
+> This is **One UI 8 based**, **ported from A34 5G**, if you want to **try universalUI in One UI 8.5 or One UI 7**, **please check the canary repository.**
 
 ### ***universalUI***
 
